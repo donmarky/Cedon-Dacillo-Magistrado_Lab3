@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 14,
+    "editor.tabSize": 4,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true
+    },
+    "eslint.enable": true
+}
